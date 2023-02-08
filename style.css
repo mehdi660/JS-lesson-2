@@ -1,0 +1,12 @@
+body {
+  margin: 0 auto;
+  box-sizing: border-box;
+  background: rgb(240, 135, 135);
+}
+
+.top {
+  display: flex;
+  align-items: top;
+  text-align: top;
+  justify-content: center;
+}
